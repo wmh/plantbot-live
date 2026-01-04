@@ -1,27 +1,24 @@
-# PlantBot - GitHub Pages
+# PlantBot 🌱
 
-🌱 **PlantBot** is a programming puzzle game inspired by LightBot.
+A programming puzzle game inspired by LightBot. Learn coding concepts by guiding a robot to plant flowers!
 
-## Play Now
+## 🎮 Play Now
 
-🎮 [**Play PlantBot**](https://wmh.github.io/plantbot-gh-pages/)
+👉 [**Play PlantBot**](https://wmh.github.io/plantbot-live/)
 
-## About
+## 📚 Learn Programming Through Play
 
-Learn programming concepts through puzzle-solving:
-- Sequential commands
-- Functions (Func1, Func2)
-- Recursion
-- Problem decomposition
+- **Sequential Commands** - Build step-by-step instructions
+- **Functions** - Reuse code with Func1 and Func2
+- **Recursion** - Functions calling themselves
+- **Problem Decomposition** - Break complex tasks into simpler steps
 
-## Credits
+## 🎨 Credits
 
 **Assets**: [Modular Pixel Isometric Tiles](https://happysmily.itch.io/modular-isometric-assets) by HappySmily
 
-## Source Code
-
-The source code is available at: [plantbot](https://github.com/wmh/plantbot)
+**Engine**: Built with Phaser 3
 
 ---
 
-Built with ❤️ using Phaser 3
+Made with ❤️ for learning
